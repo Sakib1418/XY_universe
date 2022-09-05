@@ -1,0 +1,1 @@
+scp -r reuel@10.25.149.202:/home/reuel/Desktop/Sakib/RL/XY_universe/output .
